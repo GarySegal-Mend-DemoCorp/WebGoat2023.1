@@ -1,3 +1,9 @@
 {
-  "settingsInheritedFrom": "GarySegal-Mend-DemoCorp/whitesource-config@main"
+  "settingsInheritedFrom": "GarySegal-Mend-DemoCorp/whitesource-config@main",
+  "remediateSettings": {
+    "extends": [
+      "dependencyDashboardApproval: true",
+      "rebaseWhen: never"
+      ]
+  }
 }
