@@ -35,7 +35,7 @@
     "extends": [
        "config:base",
        "github>whitesource/merge-confidence:beta",
-       "dependencyDashboardApproval": true
+       "dependencyDashboardApproval: true"
       ]
   },
   "imageSettings": {
